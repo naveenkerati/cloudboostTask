@@ -1,0 +1,8 @@
+ 1. /character/:name
+	-> would render the character details in character component
+ 
+
+ 2. /characters
+	-> would render the character details in character components with top characters[50 characters based on query string[name.height,weight]]
+ 3. /planets
+	-> would respond with raw json data that displayed in planets component.
